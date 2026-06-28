@@ -8,8 +8,6 @@
 
 **Semiconductor Engineer — RTL Design · UVM Verification · Process**
 
-*"Not the smartest in the room, but the last one to give up."*
-
 [![Email](https://img.shields.io/badge/insok43@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:insok43@gmail.com)
 [![Notion](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/31242546c7ac80c0871dcf17543e0e95)
 
