@@ -22,6 +22,9 @@
 ![UVM](https://img.shields.io/badge/UVM-6A1B9A?style=flat-square)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 ---
 
@@ -39,6 +42,7 @@
 
 | Repository | Description | Language |
 |---|---|---|
+| [Hangul_HandLang](https://github.com/yeoinseok/Hangul_HandLang) | Real-time Korean fingerspelling(지문자) translator — MediaPipe hand detection + MobileNetV2 classifier (31 classes), ONNX/TensorRT optimized for Jetson Nano | Python |
 | [RV32I-Multicycle-APB-BUS-Design](https://github.com/yeoinseok/RV32I-Multicycle-APB-BUS-Design) | Multicycle RISC-V CPU with APB peripheral bus | SystemVerilog |
 | [risc_v-rv32i-32bit](https://github.com/yeoinseok/risc_v-rv32i-32bit) | Full RV32I pipeline implementation | SystemVerilog |
 | [microblaze_axi_spi_uvm](https://github.com/yeoinseok/microblaze_axi_spi_uvm) | UVM verification environment for AXI SPI | C |
@@ -59,5 +63,3 @@
 | 2021 | Computer Proficiency Level 1 (National Technical Qualification) |
 
 ---
-
-
