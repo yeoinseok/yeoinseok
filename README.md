@@ -42,6 +42,8 @@
 
 | Repository | Description | Language |
 |---|---|---|
+| [AIGIS-final-project-](https://github.com/yeoinseok/AIGIS-final-project-) | Secure anti-drone control system with AES-128-GCM dynamic session keys across ZYBO, Basys3, Jetson, and PC UI | SystemVerilog / Python |
+| [M.A.T.S.-Anti-Drone-System-](https://github.com/yeoinseok/M.A.T.S.-Anti-Drone-System-) | Anti-drone monitoring and tracking system integrating FPGA control logic, embedded communication, and AI-based detection workflow | SystemVerilog / Python |
 | [Hangul_HandLang](https://github.com/yeoinseok/Hangul_HandLang) | Real-time Korean fingerspelling(지문자) translator — MediaPipe hand detection + MobileNetV2 classifier (31 classes), ONNX/TensorRT optimized for Jetson Nano | Python |
 | [RV32I-Multicycle-APB-BUS-Design](https://github.com/yeoinseok/RV32I-Multicycle-APB-BUS-Design) | Multicycle RISC-V CPU with APB peripheral bus | SystemVerilog |
 | [risc_v-rv32i-32bit](https://github.com/yeoinseok/risc_v-rv32i-32bit) | Full RV32I pipeline implementation | SystemVerilog |
